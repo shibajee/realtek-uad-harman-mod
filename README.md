@@ -15,6 +15,8 @@ After the restart u will get a Startup Settings page, press F7 to go into disabl
 
 Continue with the warning sign and click Install this driver software anyway. Do not restart, select I will restart my computer later.
 
+- After that go to Harman_Audio folder and install "Audio By Harman.msi" control panel.
+
 - Enable Sideload apps:
 
 Go to Settings > Update & Security > For developers > click Sideload apps and close.
